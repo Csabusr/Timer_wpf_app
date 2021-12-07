@@ -1,4 +1,4 @@
-# Timer_wpf_app
+# Visszaszamlalo_app
 
 Ez a program egy folyamatosan frissülő output hatralevo_ido.txt és vagy eltelt_ido.txt fájlt szolgáltat.
 Hasznos lehet Obs-ben visszaszámláláshoz, vagy stopperhez.
