@@ -1,0 +1,15 @@
+C:\Users\FCsaba\source\repos\Visszaszamlalo\Visszaszamlalo\bin\Debug\Visszaszamlalo.exe.config
+C:\Users\FCsaba\source\repos\Visszaszamlalo\Visszaszamlalo\bin\Debug\Visszaszamlalo.exe
+C:\Users\FCsaba\source\repos\Visszaszamlalo\Visszaszamlalo\bin\Debug\Visszaszamlalo.pdb
+C:\Users\FCsaba\source\repos\Visszaszamlalo\Visszaszamlalo\obj\Debug\Visszaszamlalo.csprojAssemblyReference.cache
+C:\Users\FCsaba\source\repos\Visszaszamlalo\Visszaszamlalo\obj\Debug\MainWindow.g.cs
+C:\Users\FCsaba\source\repos\Visszaszamlalo\Visszaszamlalo\obj\Debug\App.g.cs
+C:\Users\FCsaba\source\repos\Visszaszamlalo\Visszaszamlalo\obj\Debug\Visszaszamlalo_MarkupCompile.cache
+C:\Users\FCsaba\source\repos\Visszaszamlalo\Visszaszamlalo\obj\Debug\Visszaszamlalo_MarkupCompile.lref
+C:\Users\FCsaba\source\repos\Visszaszamlalo\Visszaszamlalo\obj\Debug\MainWindow.baml
+C:\Users\FCsaba\source\repos\Visszaszamlalo\Visszaszamlalo\obj\Debug\Visszaszamlalo.g.resources
+C:\Users\FCsaba\source\repos\Visszaszamlalo\Visszaszamlalo\obj\Debug\Visszaszamlalo.Properties.Resources.resources
+C:\Users\FCsaba\source\repos\Visszaszamlalo\Visszaszamlalo\obj\Debug\Visszaszamlalo.csproj.GenerateResource.cache
+C:\Users\FCsaba\source\repos\Visszaszamlalo\Visszaszamlalo\obj\Debug\Visszaszamlalo.csproj.CoreCompileInputs.cache
+C:\Users\FCsaba\source\repos\Visszaszamlalo\Visszaszamlalo\obj\Debug\Visszaszamlalo.exe
+C:\Users\FCsaba\source\repos\Visszaszamlalo\Visszaszamlalo\obj\Debug\Visszaszamlalo.pdb
